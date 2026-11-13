@@ -1,6 +1,6 @@
 {
- "name": "심사숙GO! 조달청",
- "short_name": "심사숙GO!",
+ "name": "다함께! 조달 한바퀴",
+ "short_name": "조달 한바퀴",
  "description": "조달청 신입 심사관이 되어 입찰 서류를 심사하는 게임",
  "start_url": "./",
  "scope": "./",
