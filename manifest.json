@@ -1,7 +1,7 @@
 {
  "name": "다함께 GO! 조달 한바퀴",
  "short_name": "조달 한바퀴",
- "description": "조달청 신입 심사관이 되어 입찰 서류를 심사하는 게임",
+ "description": "심사관·제조업체·수요기관, 세 자리에서 공공조달 한 바퀴를 겪어 보는 역할 체험 게임",
  "start_url": "./",
  "scope": "./",
  "display": "fullscreen",
